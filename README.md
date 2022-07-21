@@ -2,4 +2,3 @@
 
 ![실행 화면](images/lotto_1.png)
 
-
